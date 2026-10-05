@@ -1,0 +1,8 @@
+<resources>
+    <color name="firise_bg">#07101F</color>
+    <color name="firise_panel">#0D1930</color>
+    <color name="firise_blue">#48A8FF</color>
+    <color name="firise_cyan">#54E8FF</color>
+    <color name="firise_text">#FFFFFF</color>
+    <color name="firise_muted">#9CAFC9</color>
+</resources>
